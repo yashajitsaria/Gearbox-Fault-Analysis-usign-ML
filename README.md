@@ -1,6 +1,6 @@
 # Data Science Project - G31
 
-Data Science project for the course Introduction to Data Science (CS244) during the fourth semester.\
+Data Science project for the course Introduction to Data Science (CS244) during the fourth semester.
 
 ### Topic:
 Gearbox Fault Analysis using Machine Learning and Data Science.\
