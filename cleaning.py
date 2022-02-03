@@ -15,13 +15,13 @@ pth2 = 'dataset/Healthy'
 i = 0
 for file in os.listdir(pth1):
     broken.append(pd.read_csv(os.path.join(pth1, file)))
-    print(broken[i].head())
+    #print(broken[i].head())
     i += 1
     
 j = 0
 for file in os.listdir(pth2):
     healthy.append(pd.read_csv(os.path.join(pth2, file)))
-    print(healthy[j].head())
+    #print(healthy[j].head())
     j += 1
 
 # Adding load and broken/healthy information to the dataset
