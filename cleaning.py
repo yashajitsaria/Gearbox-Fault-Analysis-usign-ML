@@ -28,11 +28,11 @@ for file in os.listdir(pth2):
 # Adding load and broken/healthy information to the dataset
 for i in range(0, 10):
     load = 10*i
-    # failure = 1, refers the gearbox is faulty while failure = 0, refers to healthy gearbox
+    # gearbox_status = 0 refers the gearbox is faulty while, failure = 1 refers to healthy gearbox
     broken[i]['load'] = load
-    broken[i]['failure'] = 1
+    broken[i]['gearbox_status'] = 0
     healthy[i]['load'] = load
-    healthy[i]['failure'] = 0
+    healthy[i]['gearbox_status'] = 1
 
 # Aggregating dataset for broken and healthy
 healthy_agg = healthy[0]
