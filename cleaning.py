@@ -34,7 +34,7 @@ for i in range(0, 10):
     healthy[i]['load'] = load
     healthy[i]['gearbox_status'] = 1
 
-# Aggregating dataset for broken and healthy
+# Aggregating dataset for broken and healthy 
 healthy_agg = healthy[0]
 broken_agg = broken[0]
 for i in range(1,10):
@@ -43,4 +43,3 @@ for i in range(1,10):
 
 # Agregrating total dataset
 healthy_broken_agg = pd.concat([healthy_agg, broken_agg], axis=0, ignore_index=True)
-
