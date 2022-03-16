@@ -23,8 +23,7 @@ Dataset used: [Gearbox Fault Analysis - Kaggle](https://www.kaggle.com/brjapon/g
 Gearbox Fault Diagnosis Data set include the vibration dataset recorded by using SpectraQuest’s Gearbox Fault Diagnostics Simulator.
 Dataset has been recorded using 4 vibration sensors placed in four different direction, and under variation of load from '0' to '90' percent. Two different scenario are included: \
 [1] Healthy condition and \
-[2] Broken Tooth Condition \
-
+[2] Broken Tooth Condition
 
 ## Data Aggregation:
 
