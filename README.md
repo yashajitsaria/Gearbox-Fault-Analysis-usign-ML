@@ -30,9 +30,11 @@ Dataset has been recorded using 4 vibration sensors placed in four different dir
 
 ## Data Visualisation:
 
-
-## Data Statistics / Summary:
-
-
 ## Hypothesis and Hypothesis Testing:
+
+
+## Summary:
+
+
+
 
