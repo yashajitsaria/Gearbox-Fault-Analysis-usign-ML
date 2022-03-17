@@ -25,10 +25,8 @@ Dataset has been recorded using 4 vibration sensors placed in four different dir
 [1] Healthy condition and \
 [2] Broken Tooth Condition
 
-## Data Aggregation:
-
-
 ## Data Visualisation:
+
 
 ## Hypothesis and Hypothesis Testing:
 
