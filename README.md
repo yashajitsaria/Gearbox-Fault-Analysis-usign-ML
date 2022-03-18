@@ -5,7 +5,7 @@ Data Science project for the course Introduction to Data Science (CS244) during 
 ## Topic:
 Gearbox Fault Analysis using Machine Learning and Data Science.\
 Presentation - [Google Slides](https://docs.google.com/presentation/d/14HmFRW4bMTIqvRdnrHYgkMq0jVh-rpTuiP8LIkTGbCs/edit?usp=sharing)
-<!-- add the youtube video link here -->
+Project Explanation - [YouTube]()
 
 ### Team:
 - Yash Ajitsaria
