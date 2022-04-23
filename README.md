@@ -4,12 +4,13 @@ Data Science project for the course Introduction to Data Science (CS244) during 
 
 ## Topic:
 Gearbox Fault Analysis using Machine Learning and Data Science.\
-Presentation - \
+Presentation - 
 - [Part-1](https://docs.google.com/presentation/d/14HmFRW4bMTIqvRdnrHYgkMq0jVh-rpTuiP8LIkTGbCs/edit?usp=sharing)
-- [Part-2] (https://docs.google.com/presentation/d/1bciRV9ST2Md8pk72wz22ykiqegdcmwve6ywB_lV3pIE/edit?usp=sharing)
-Project Explanation - \
-- [Part-1] (https://youtu.be/o3-bFDOQUy0)
-- [Part-2] (https://youtu.be/Szh2v4yI4jY)
+- [Part-2](https://docs.google.com/presentation/d/1bciRV9ST2Md8pk72wz22ykiqegdcmwve6ywB_lV3pIE/edit?usp=sharing)
+
+Project Explanation - 
+- [Part-1](https://youtu.be/o3-bFDOQUy0)
+- [Part-2](https://youtu.be/Szh2v4yI4jY)
 
 ### Team:
 - Siddharth Gupta
