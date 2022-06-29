@@ -21,7 +21,7 @@ Project Explanation -
 - Aarav Arya
 
 ## Introduction:
-Our project deals with the application of Machine Learning in industrial environemnt in the field of Mechanical Engineering. Given vibrational data collected using 4 vibration sensors placed in four different corners of a gearbox, our model will analyse the data and predict if the gearbox has a broken tooth and hence, if the gearbox is healthy or not. 
+Our project deals with the application of Machine Learning in industrial environement in the field of Mechanical Engineering. Given vibrational data collected using 4 vibration sensors placed in four different corners of a gearbox, our model will analyse the data and predict if the gearbox has a broken tooth and hence, if the gearbox is healthy or not. 
 
 ## Data Collection:
 Dataset used: [Gearbox Fault Analysis - Kaggle](https://www.kaggle.com/brjapon/gearbox-fault-diagnosis) \
